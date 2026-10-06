@@ -1,0 +1,1 @@
+# analisis-bioinstrumental-curl-bicep
